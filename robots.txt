@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bintredi.github.io/bintredi.txt.gz
+Sitemap: https://bintredi.github.io/app/bintredi.txt.gz
+Sitemap: https://bintredi.github.io/assets/bintredi.txt.gz
+Sitemap: https://bintredi.github.io/css/bintredi.txt.gz
+Sitemap: https://bintredi.github.io/includes/bintredi.txt.gz
+Sitemap: https://bintredi.github.io/item/bintredi.txt.gz
+Sitemap: https://bintredi.github.io/src/bintredi.txt.gz
